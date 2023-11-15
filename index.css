@@ -1,0 +1,11 @@
+
+table {
+  max-width: 100%;
+  background-color: transparent;
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: gray;
+}
